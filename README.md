@@ -5,7 +5,7 @@ All models that have been finetuned will be hosted publicly on huggingface under
 
 https://huggingface.co/pabRomero
 
-A list of models that have been finetuned in my profile and are now currently being tested in the ensemble to see which combination is most effective:
+A list of models that have been finetuned in my profile and can be used with the app if they contain a .onnx file: (Conversion script for any NER model in the Desktop App Github repo)
 
 **BERT** https://huggingface.co/google-bert/bert-base-uncased 
 **BioBERT** https://huggingface.co/dmis-lab/biobert-base-cased-v1.2 
@@ -17,5 +17,5 @@ A list of models that have been finetuned in my profile and are now currently be
 **RoBERTa** Large https://huggingface.co/FacebookAI/roberta-large
 
 # Desktop applications / App
-New version available at https://github.com/pabloRom2004/Insight-Buddy-AI-App
+Available at https://github.com/pabloRom2004/Insight-Buddy-AI-App
  
