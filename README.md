@@ -17,5 +17,5 @@ A list of models that have been finetuned in my profile and are now currently be
 **RoBERTa** Large https://huggingface.co/FacebookAI/roberta-large
 
 # Desktop applications / App
-New version available at https://github.com/pabloRom2004/Insight-Buddy-AI-App/releases
+New version available at https://github.com/pabloRom2004/Insight-Buddy-AI-App
  
