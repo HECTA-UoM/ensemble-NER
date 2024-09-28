@@ -15,3 +15,7 @@ A list of models that have been finetuned in my profile and are now currently be
 **BioMedRoBERTa** https://huggingface.co/allenai/biomed_roberta_base 
 **RoBERTa** https://huggingface.co/FacebookAI/roberta-base 
 **RoBERTa** Large https://huggingface.co/FacebookAI/roberta-large
+
+# Desktop applications / App
+New version available at https://github.com/pabloRom2004/Insight-Buddy-AI-App/releases
+ 
