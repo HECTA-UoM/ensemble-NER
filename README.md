@@ -1,7 +1,7 @@
 # InsightBuddy AI Software Download
 Available at https://github.com/pabloRom2004/Insight-Buddy-AI-App
 
-# ensemble-NER
+# Ensemble-NER
 Manchester Medical Mining with Ensemble Methodologies
 
 All models that have been finetuned will be hosted publicly on huggingface under my profile, link here:
