@@ -1,3 +1,6 @@
+# InsightBuddy AI Software Download
+Available at https://github.com/pabloRom2004/Insight-Buddy-AI-App
+
 # ensemble-NER
 Manchester Medical Mining with Ensemble Methodologies
 
@@ -15,7 +18,4 @@ A list of models that have been finetuned in my profile and can be used with the
 **BioMedRoBERTa** https://huggingface.co/allenai/biomed_roberta_base 
 **RoBERTa** https://huggingface.co/FacebookAI/roberta-base 
 **RoBERTa** Large https://huggingface.co/FacebookAI/roberta-large
-
-# Desktop applications / App
-Available at https://github.com/pabloRom2004/Insight-Buddy-AI-App
  
