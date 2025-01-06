@@ -19,3 +19,14 @@ A list of models that have been finetuned in my profile and can be used with the
 **RoBERTa** https://huggingface.co/FacebookAI/roberta-base 
 **RoBERTa** Large https://huggingface.co/FacebookAI/roberta-large
  
+# cite our work
+
+@misc{romero2024insightbuddyaimedicationextractionentity,
+      title={INSIGHTBUDDY-AI: Medication Extraction and Entity Linking using Large Language Models and Ensemble Learning}, 
+      author={Pablo Romero and Lifeng Han and Goran Nenadic},
+      year={2024},
+      eprint={2409.19467},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2409.19467}, 
+}
